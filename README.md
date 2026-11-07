@@ -1,8 +1,19 @@
-# The Nova Systems Programming Language
+<div align="center">
 
-> **Zero GC | Perceus In-Place Reuse | Refinement Safety via Z3 | Bare-Metal Parity**
+# 🏛️ Nova Legacy Haskell Bootstrap (Stage 0)
 
-Nova is a modern systems programming language engineered to achieve the memory safety and ergonomics of Rust, the raw execution speed and bare-metal hardware control of C/C++, and the formal correctness guarantees of SMT-backed Refinement Types.
+**Genesis Haskell Bootstrap Toolchain for the Nova Systems Programming Language**
+
+<br />
+
+[![License](https://img.shields.io/badge/license-PolyForm-a855f7?style=flat&labelColor=0f172a&logo=open-source-initiative&logoColor=white)](LICENSE)
+[![Nova](https://img.shields.io/badge/language-Nova_0.3.0-38bdf8?style=flat&labelColor=0f172a&logo=rust&logoColor=white)](https://github.com/novasystems-dev/nova)
+[![Stage 0](https://img.shields.io/badge/stage-0_bootstrap-10b981?style=flat&labelColor=0f172a&logo=haskell&logoColor=white)](stage0/)
+[![Ecosystem](https://img.shields.io/badge/ecosystem-10%20repos-f59e0b?style=flat&labelColor=0f172a&logo=github&logoColor=white)](https://github.com/novasystems-dev)
+
+<br />
+
+</div>
 
 ---
 
